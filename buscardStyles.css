@@ -1,0 +1,32 @@
+.main-bdy{
+		margin:20px;
+		font-family: verdana, Geneva, Tahoma sans-serif;
+}
+
+.img{
+	width:150px;
+	padding:0;
+}
+
+.card-wrapper{
+	
+	width:400px;
+	/*margin-left:auto;
+	margin-right:auto;*/
+	margin:0 auto;
+	padding:20px;
+	display:flex;
+	justify-CONTENT:space-around;
+	text-align:center;
+	background:#ddebf8;
+	border-bottom: 10px solid #d8cefe;	
+	color:#2b2839;
+}
+
+.dlin-util{
+	border: 1px dotted blue
+	
+}
+.bold{
+	font-weight:bold;
+}
